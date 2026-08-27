@@ -22,6 +22,8 @@ The most intelligent harness
 
 [Website](https://jcode.sh) · [Docs](https://jcode.sh/docs) · [SDK](https://jcode.sh/sdk) · [Benchmarks](https://jcode.sh/bench) · [Features](#features) · [Install](#installation) · [Quick Start](#quick-start) · [Further Reading](#further-reading) · [Contributing](CONTRIBUTING.md)
 
+Languages: English | [한국어](README.ko.md)
+
 </div>
 
 ---
